@@ -10,7 +10,7 @@ Dogecoin，有人称作“狗狗币/狗币”，诞生于2013年12月8日，基�
 *  [GitHub](https://github.com/dogecoin/dogecoin)
 
 *  [Getting Started](https://dogecoin.com/getting-started/)
-*  
+ 
 ## 交易平台
 
 *  [币安交易平台](https://www.binance.com/en/register?ref=23297069) 全球最大的区块链交易平台
