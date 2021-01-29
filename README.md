@@ -28,7 +28,7 @@ Dogecoin，有人称作“狗狗币/狗币”，诞生于2013年12月8日，基�
 
 ## 历史行情
 
-![历史行情](./images/DogecoinChart.jpeg)
+![历史行情](./DogecoinChart.jpeg)
 
 ## 导航
 
